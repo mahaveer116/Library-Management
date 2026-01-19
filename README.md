@@ -12,8 +12,6 @@ Features
 
 Tech Stack
 
-(Update this section based on what you used)
-
     Language: Python / JavaScript
     Backend: FastAPI
     Database: PostgreSQL
